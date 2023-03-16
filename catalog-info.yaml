@@ -1,7 +1,11 @@
 apiVersion: backstage.io/v1alpha1
-kind: Location
+kind: Component
 metadata:
   name: yelb-catalog-info
   description: A sample catalog for the yelb application
   annotations:
     'backstage.io/techdocs-ref': dir:.
+spec:
+  type: application
+  owner: EJIE
+  lifecycle: experimental
