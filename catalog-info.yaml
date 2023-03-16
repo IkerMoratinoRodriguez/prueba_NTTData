@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: Server
 metadata:
   name: yelb-catalog-info
   description: A sample catalog for the yelb application
