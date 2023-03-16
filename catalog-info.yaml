@@ -9,3 +9,5 @@ spec:
   type: application
   owner: EJIE
   lifecycle: experimental
+  targets:
+    - ./components/yelb-ui/yelb-ui.yaml
