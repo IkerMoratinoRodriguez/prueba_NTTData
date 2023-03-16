@@ -17,4 +17,4 @@ spec:
   lifecycle: experimental
   owner: team-a
   system: yelb
-  dependsOn: [Component:yelb-appserver]
+  dependsOn: [Location:yelb-catalog-info]
